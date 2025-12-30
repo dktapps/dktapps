@@ -8,7 +8,7 @@ I'm a software developer and reverse engineer based in the UK.
 
 In the last 10 years, I've contributed to, and led the development of, various popular open-source projects.
 
-I'm well-known in the Minecraft: Bedrock custom server community for leading the development of [PocketMine-MP, a custom Minecraft: Bedrock server software](https://github.com/pmmp/PocketMine-MP) from 2016 to 2024.
+I'm well-known in the Minecraft: Bedrock custom server community for leading the development of [PocketMine-MP, a custom Minecraft: Bedrock server software](https://github.com/pmmp/PocketMine-MP) since 2016.
 
 In 2024 I received an award on [OpenUK's 2024 Honours List](https://www.credly.com/badges/0f3d802f-02d7-40e6-aec2-02ea16a55a3d/public_url) as one of the 100 most influential open-source software engineers in the UK.
 
